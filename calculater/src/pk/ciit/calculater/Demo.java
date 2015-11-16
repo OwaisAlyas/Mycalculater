@@ -7,6 +7,8 @@ public class Demo {
 
 		System.out.println("Hy .here is my first project of GITHUB");
 
+		System.out.println("here is my update");
+
 	}
 
 }
